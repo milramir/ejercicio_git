@@ -1,1 +1,2 @@
 realizo un cambio en el archivo1
+lo modifico desde la rama1
